@@ -11,7 +11,6 @@
 <p align="center">
 <a href="https://twitter.com/dangdungcntt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dangdungcntt" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/dangdungcntt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dangdungcntt" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/dangdungcntt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dangdungcntt" height="20" width="20" /></a>
 <a href="https://fb.com/dangdung.json" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dangdung.json" height="20" width="20" /></a>
 <a href="https://instagram.com/dangdungcntt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dangdungcntt" height="20" width="20" /></a>
 <a href="https://medium.com/dungnd_1902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="dungnd1902" height="20" width="20" /></a>
