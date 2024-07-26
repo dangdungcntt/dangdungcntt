@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangdungcntt&label=Profile%20views&color=0e75b6&style=flat" alt="dangdungcntt" /> </p>
 
-- 💬 Ask me about **PHP, Laravel, Docker, Nginx**
+- 💬 Ask me about **Go, Nuxt, PHP, Laravel, Docker, Nginx**
 
 - 📫 How to reach me **dangdungcntt@gmail.com**
 
